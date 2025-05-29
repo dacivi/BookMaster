@@ -2,7 +2,7 @@
 
 Este es un proyecto web básico desarrollado en PHP para gestionar libros y usuarios. Incluye funcionalidades como inicio de sesión, adición de libros y actualizacion de información. Pensado como una plataforma de gestión sencilla para una biblioteca digital.
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
 El objetivo del proyecto es proporcionar una base funcional de un sistema web que permita:
 
