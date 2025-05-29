@@ -28,5 +28,5 @@ Antes de instalar este proyecto, asegúrate de tener lo siguiente:
 
 3. Inicia el servidor Apache desde tu panel de control.
 
-4. Abre tu navegador y visita:
+4. Abre tu navegador y visita: http://localhost/bookmaster/
 
