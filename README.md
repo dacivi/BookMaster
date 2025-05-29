@@ -1,4 +1,4 @@
-# 📚 Proyecto de Biblioteca Web
+# 📚 Proyecto de Biblioteca Web de Flor Carmona y Daniel Cruz
 
 Este es un proyecto web básico desarrollado en PHP para gestionar libros y usuarios. Incluye funcionalidades como inicio de sesión, adición de libros y actualizacion de información. Pensado como una plataforma de gestión sencilla para una biblioteca digital.
 
